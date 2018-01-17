@@ -1,5 +1,10 @@
 This is a utility code for PTX authorization.
 
+# Installation
+```sh
+pip install ptx
+```
+
 # Usage
 ```python
 import ptx
